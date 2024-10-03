@@ -117,6 +117,8 @@ header{
 input:focus-visible{
   outline: 2px solid transparent;
   border-radius: 3px;
+  font-family: istok_Web_bold;
+  font-size: 1.2em;
 }
 
 select:focus-visible {
@@ -133,6 +135,8 @@ select:focus-visible {
     border-style: solid;
     border-color: rgba(240, 248, 255, 0.678);
     color: #ffffff;
+    font-family: istok_Web_bold;
+    font-size: 1.2em;
 }
 
 .btn2{
